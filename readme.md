@@ -1,6 +1,6 @@
 # python-windows-mac-changer
 
-A simple mac changer that operates in a windows.
+An Amazing mac changer tool that operates in a windows.
 
 
 
